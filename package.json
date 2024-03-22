@@ -1,0 +1,51 @@
+{
+  "name": "etdolorum",
+  "version": "1.8.0",
+  "description": "Create billions ERC20 addresses, find vanity wallet addresses you want or any wallet address can deploy a vanity ERC20 contract address at given nonce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KurtisSchroeder/etdolorum.git"
+  },
+  "keywords": [
+    "reiciendis",
+    "vel",
+    "aut",
+    "porro",
+    "quae",
+    "eum",
+    "sint",
+    "checksum",
+    "quibusdam",
+    "consequatur",
+    "exercitationem",
+    "vanity-eth",
+    "facere",
+    "id"
+  ],
+  "author": "ConorFay",
+  "license": "MIT",
+  "dependencies": {
+    "estdistinctio": "^1.1.3",
+    "ethereumjs-util": "^7.1.4",
+    "ethereumjs-wallet": "^1.0.2",
+    "etpraesentium": "^1.0.0",
+    "keccak": "^3.0.1",
+    "quodrecusandae": "^1.1.0",
+    "randombytes": "^2.0.6",
+    "rlp": "^3.0.0",
+    "secp256k1": "^3.8.0",
+    "web3": "^4.2.2",
+    "yargs": "^17.3.1"
+  },
+  "bin": {
+    "vanitye": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/KurtisSchroeder/etdolorum.git/issues"
+  },
+  "homepage": "https://github.com/KurtisSchroeder/etdolorum.git"
+}
